@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "691113",
+      "name": "反馈",
+      "font_class": "fankui",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1191001",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "7532872",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "10012570",
+      "name": "我的足迹",
+      "font_class": "wodezuji",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "13637015",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "14164001",
+      "name": "代金券",
+      "font_class": "daijinquan",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "14164133",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "16046580",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    }
+  ]
+}

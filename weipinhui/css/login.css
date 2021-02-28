@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+}
+#head{
+    width: 100%;
+    height: 100px;
+}
+.head{
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+}
+.head img{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    position: relative;
+    /* display: flex;
+    overflow: hidden;
+    padding-top: 50px; */
+    height: 640px;
+    width: 100%;
+    background-image: url(../../images/dlbj.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.form-horizontal {
+    position: absolute;
+    right: 260px;
+    top: 50px;
+    background-color: #ffffff;
+    width: 360px;
+    height: 440px;
+    border: 1px solid #ccc;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    border-bottom:1px solid #e0e0e0 ;
+    font-size: 18px;
+}
+.p1 span{
+    display: block;
+    float: left;
+}
+.sp1{
+    width: 100%;
+    height: 100%;
+    line-height: 50px;
+    font-weight: 800;
+    margin: 0 50px;
+}
+.sp2{
+    color: #cccccc;
+}
+.form-horizontal label {
+    width: 100px;
+}
+
+.form-horizontal>.form-group>div {
+    width: 300px;
+}
+.form-group input{
+    height: 45px;
+    width: 300px;
+    margin-left: 30px;
+    
+}
+#username{
+    margin-top: 30px;
+}
+#password{
+    margin-top: 13px;
+}
+.p2{
+    width: 100%;
+    margin-top: 20px;
+}
+.p2 a{
+    color: #000;
+}
+.p2 a:hover{
+    color: #f10180;
+}
+.dx{
+    float: left;
+    margin-left: 30px;
+}
+.forget{
+    float: right;
+    margin-right: 30px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+.btn-default{
+    width: 300px;
+    height: 45px;
+    background-color: #f10180;
+    font-size: 18px;
+    color: #ffffff;
+}
+.col-sm-offset-2 {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.wxx{
+    width: 300px;
+    border-top: 1px solid #e0e0e0;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.wxt{
+    width: 60px;
+    height: 40px;
+    background-color: #ffffff;
+    margin:-20px auto;
+    padding-left: 10px;
+}
+.wxt img{
+    height: 100%;
+}
+.p3{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.p3 a{
+    color: #000;
+    text-decoration: none;
+}
+.p3 a:hover{
+    color: #f10180;
+}
+.sp3{
+    font-size: 12px;
+    color: #999999;
+    padding-right: 10px;
+}
+.sp4{
+    font-size: 12px;
+    padding: 0 10px;
+    border-left: 1px solid #999999;
+}
+.gengduo{
+    font-size: 12px;
+    color: #999999;
+    margin-left: 10px;
+}
+.gengduo i{
+    padding-left: 5px;
+}
+.gengduo:hover{
+    color: #000;
+}
+.zhuce{
+    margin-left: 30px;
+}
+#foot{
+    width: 100%;
+    height: 90px;
+}
+.foot{
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+    line-height: 90px;
+}
+.foot p{
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: #999999;
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2381774",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1591577",
+      "name": "下标",
+      "font_class": "xiabiao",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "4080753",
+      "name": "礼物盒",
+      "font_class": "liwuhe",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "9789904",
+      "name": "三角上标",
+      "font_class": "sanjiaoshangbiao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "11749659",
+      "name": "下标",
+      "font_class": "xiabiao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

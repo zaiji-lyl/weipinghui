@@ -1,0 +1,265 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.panel_right {
+    float: right;
+}
+#head{
+    width: 100%;
+    height: 79px;
+    border-bottom: 2px solid #f3168a;
+}
+.head{
+    position: relative;
+    width: 1150px;
+    height: 100%;
+    background-color: #ffffff;
+    margin: auto;
+}
+.carlogo{
+    float: left;
+    height: 77px;
+}
+.p1{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    margin-bottom: 0;
+    /* margin-top: 15px; */
+}
+.p1 span{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.p1 i{
+    margin-right: 5px;
+}
+.p1 .icon-zhankai1{
+    font-size: 12px;
+}
+.p1 .icon-huiyuanfuwu{
+    font-size: 14px;
+}
+.carbz{
+    height: 36px;
+    position: absolute;
+    right: 0;
+    bottom: 1px;
+    margin-top: 32px;
+}
+
+.container{
+    margin-top: 50px;
+}
+.temai{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #999999;
+}
+.temai span{
+    display: block;
+    width: 100px;
+    height: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #f3168a;
+    border-bottom: 2px solid #f3168a;
+}
+.panel{
+    margin-top: 30px;
+}
+/* .panel-body{
+    width: 1200px;
+} */
+.fl{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+.fl span{
+    position: absolute;
+    font-size: 12px;
+}
+.fl .sp{
+    left: 200px;
+}
+.fl .dj{
+    left: 580px;
+}
+.fl .sl{
+    left: 800px;
+}
+.fl .cz{
+    left: 1000px;
+}
+.wpzy{
+    width: 100%;
+    height: 30px;
+    line-height: 40px;
+    font-size: 16px;
+    color: #f3168a;
+    margin-left: 15px;
+}
+.media {
+    /* border-bottom: 1px solid #ccc; */
+    padding-bottom: 10px;
+}
+.media-left{
+    width: 300px;
+    line-height: 100px;
+}
+.media_left {
+    display: inline-block;
+    /* width: 150px; */
+}
+.media-left a{
+    float: right;
+    margin-left: 0px;
+}
+/* .media_left .checked{
+    margin-top: 30px;
+} */
+.media-left .media-object {
+    display: inline-block;
+    width: 45px;
+    height: 90px;
+    margin-left: 0px;
+}
+
+.media-body {
+    height: 100px;
+    padding: 0px;
+}
+
+.media_body_left {
+    position: relative;
+    width: 60%;
+    float: left;
+}
+.media_body_left h4{
+    width: 200px;
+    font-size: 12px;
+    float: left;
+    margin-top: 15px;
+}
+.media_body_left .tui{
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    line-height: 20px;
+    /* width: 200px; */
+    font-size: 12px;
+    /* float: left;
+    margin-top: 80px; */
+    position: absolute;
+    top: 80px;
+    background-color: #edf3ff;
+    border-radius: 10px;
+}
+
+.media_body_left .price{
+    float: left;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.media_body_center {
+    float: left;
+    width: 20%;
+    height: 110%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.media_body_center .btn-group{
+    top: -35px;
+}
+.media_body_right {
+    display: flex;
+    height: 110%;
+    align-items: center;
+    justify-content: space-between;
+}
+.media_body_center .item_total,.del{
+    top: -35px;
+    
+}
+/* .media_body_center .item_total{
+    position: absolute;
+    top: -35px;
+} */
+
+.price {
+    color:#f3168a;
+}
+
+.del {
+    cursor: pointer;
+    color: #ccc;
+}
+
+.panel-footer {
+    height: 150px;
+    padding: 0;
+}
+.panel-footer .zjg{
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+}
+.panel-footer .sp1{
+    float: right;
+    display: block;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.panel-footer .sp1 .rmb{
+    margin-left: 120px;
+}
+.panel-footer .sp1 .total{
+    margin-right: 30px;
+    
+}
+
+.panel-footer .js{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #ffffff;
+    width: 1140px;
+    height: 50px;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+.js .btn{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    float: right;
+    border-radius: 0;
+}
+.js .sp2{
+    display: block;
+    width: 250px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    float: right;
+}
+.thbz{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.thbz img{
+    width: 100%;
+}

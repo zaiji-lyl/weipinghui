@@ -1,0 +1,37 @@
+{
+  "id": "2390500",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2319394",
+      "name": "在线客服",
+      "font_class": "zaixiankefu",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "11308586",
+      "name": "下  拉",
+      "font_class": "zhankai1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15662381",
+      "name": "会员服务",
+      "font_class": "huiyuanfuwu",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "17988058",
+      "name": "电  话",
+      "font_class": "dianhua",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
